@@ -13,7 +13,7 @@ Aplicação simples feita com ReactJS com o intuito de testar a API [ReqRes](htt
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCSS)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![ReactQuery](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=ReactQuery)
-![React Router](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=ReactRouter)
+![ReactRouter](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=ReactRouter)
 
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px" height="25px"> About me
 
