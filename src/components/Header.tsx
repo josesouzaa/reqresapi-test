@@ -11,9 +11,6 @@ export function Header() {
           <li>
             <Link to="/repositories">Repositories</Link>
           </li>
-          <li>
-            <Link to="/contact">Contact</Link>
-          </li>
         </ul>
       </nav>
     </header>

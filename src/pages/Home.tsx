@@ -74,4 +74,6 @@ export function Home() {
         </div>
       </section>
     )
+
+  return null
 }

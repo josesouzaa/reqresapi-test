@@ -56,4 +56,6 @@ export function User() {
         </div>
       </section>
     )
+
+  return null
 }
